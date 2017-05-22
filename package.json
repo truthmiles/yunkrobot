@@ -21,6 +21,7 @@
   "homepage": "https://github.com/truthmiles/yunkrobot#readme",
   "dependencies": {
     "express": "^4.15.3",
+    "get-json": "0.0.3",
     "linebot": "^1.3.0"
   }
 }
